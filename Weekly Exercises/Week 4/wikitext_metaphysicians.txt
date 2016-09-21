@@ -1,4 +1,4 @@
-This is a '''list of metaphysicians''', [[philosophy|philosophers]] who specialize in [[metaphysics]]. ''See also [[Lists of philosophers]].''
+This is a '''list of metaphysicians''', philosophers who specialize in metaphysics. ''See also Lists of philosophers.''
 
 {{see also|Index of metaphysics articles}}
 
@@ -22,7 +22,7 @@ This is a '''list of metaphysicians''', [[philosophy|philosophers]] who speciali
 * [[Anne Conway, Viscountess Conway]]
 * [[Baruch Spinoza]]
 * [[Nicolas Malebranche]]
-* [[J. M. E. McTaggart|John McTaggart]]
+* [[John McTaggart]]
 * [[Gottfried Leibniz]]
 * [[George Berkeley]]
 * [[Immanuel Kant]]
@@ -54,7 +54,7 @@ This is a '''list of metaphysicians''', [[philosophy|philosophers]] who speciali
 * [[Gilles Deleuze]]
 * [[Arda Denkel]]
 * [[Michael Devitt]]
-*[[Nader El-Bizri]]
+* [[Nader El-Bizri]]
 * [[Catherine Elgin]]
 * [[Kit Fine]]
 * [[Peter Geach]]
@@ -102,6 +102,3 @@ This is a '''list of metaphysicians''', [[philosophy|philosophers]] who speciali
 * [[Dean Zimmerman]]
 * [[Xavier Zubiri]]
 {{metaphysics}}
-
-[[Category:Lists of philosophers|Metaphysicians]]
-[[Category:Metaphysicians| ]]

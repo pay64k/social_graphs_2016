@@ -1,13 +1,13 @@
 {{see also|Index of ethics articles}}
-'''List of ethicists''' including religious or political figures recognized by those outside their tradition as having made major contributions to ideas about [[ethics]], or raised major controversies by taking strong positions on previously unexplored problems.
+'''List of ethicists''' including religious or political figures recognized by those outside their tradition as having made major contributions to ideas about ethics, or raised major controversies by taking strong positions on previously unexplored problems.
 
-All are known for an ethical work or problem, but a few are primarily [[list of authors|authors]] or [[List of satirists and satires|satirists]], or known as a [[mediation|mediator]], [[politician]], [[Futures studies|futurist]] or [[scientist]], rather than as an [[ethicist]] or [[philosopher]].  Some controversial figures are included, some of whom you may see as bad examples.  A few are included because their names have become synonymous with certain ethical debates, but only if they personally elaborated an ethical theory justifying their actions.
+All are known for an ethical work or problem, but a few are primarily authors or satirists, or known as a mediator, politician, futurist or scientist, rather than as an ethicist or philosopher.  Some controversial figures are included, some of whom you may see as bad examples.  A few are included because their names have become synonymous with certain ethical debates, but only if they personally elaborated an ethical theory justifying their actions.
 
 {{compact ToC|top=yes|seealso=yes|extlinks=yes}}
 
 ==A==
 *[[Pierre Abélard]]
-*[[B. R. Ambedkar|Ambedkar]]
+*[[B. R. Ambedkar]]
 *[[John Stevens Cabot Abbott]]
 *[[Mortimer Adler]]
 *[[Nayef Al-Rodhan]]
@@ -21,7 +21,7 @@ All are known for an ethical work or problem, but a few are primarily [[list of 
 *[[Jacob M. Appel]]
 *[[Aristotle]]
 *[[Aristoxenus]]
-*[[John Arthur (philosopher)|John Arthur]]
+*[[John Arthur]]
 *[[Ashoka]]
 *[[Augustine of Hippo]]
 *[[Avicenna]]
@@ -80,7 +80,7 @@ All are known for an ethical work or problem, but a few are primarily [[list of 
 ==F==
 *[[Johann Albert Fabricius]]
 *[[Ismail Raji' al-Faruqi]]
-*[[Nosson Tzvi Finkel (Slabodka)|Nosson Tzvi Finkel]]
+*[[Nosson Tzvi Finkel]]
 *[[John Finnis]]
 *[[Joseph Fins]]
 *[[Owen Flanagan]]
@@ -89,7 +89,7 @@ All are known for an ethical work or problem, but a few are primarily [[list of 
 *[[William K. Frankena]]
 *[[Alexander Campbell Fraser]]
 *[[R. Edward Freeman]]
-*[[Raymond Frey|R. G. Frey]]
+*[[R. G. Frey]]
 *[[Erich Fromm]]
 
 ==G==
@@ -105,13 +105,13 @@ All are known for an ethical work or problem, but a few are primarily [[list of 
 *[[Thomas Hill Green]]
 *[[Stanley Grenz]]
 *[[Hugo Grotius]]
-*[[Tenzin Gyatso]], the 14th [[Dalai Lama]]
+*[[Tenzin Gyatso]]
 
 ==H==
 *[[Jürgen Habermas]]
 *[[Hammurabi]]
 *[[R. M. Hare]]
-*[[Elizabeth Harman (disambiguation)|Elizabeth Harman]]
+*[[Elizabeth Harman]]
 *[[Gilbert Harman]]
 *[[John Harsanyi]]
 *[[Robert S. Hartman]]
@@ -128,10 +128,10 @@ All are known for an ethical work or problem, but a few are primarily [[list of 
 *[[Wau Holland]]
 *[[Hans-Hermann Hoppe]]
 *[[David Hume]]
-*[[John Peters Humphrey]] - author of [[UN Declaration of Universal Human Rights]]
+*[[John Peters Humphrey]]
 *[[Edward Hundert]]
 *[[Rosalind Hursthouse]]
-*[[Francis Hutcheson (philosopher)|Francis Hutcheson]]
+*[[Francis Hutcheson]]
 *[[Thomas Henry Huxley]]
 
 ==I==
@@ -144,7 +144,7 @@ All are known for an ethical work or problem, but a few are primarily [[list of 
 *[[Paul Janet]]
 *[[Francis Jeffrey]]
 *[[Théodore Simon Jouffroy]]
-*[[Jesus|Jesus of Nazareth]]
+*[[Jesus of Nazareth]]
 
 ==K==
 *[[Shelly Kagan]]
@@ -187,7 +187,7 @@ All are known for an ethical work or problem, but a few are primarily [[list of 
 *[[Fatema Mernissi]]
 *[[James Mill]]
 *[[John Stuart Mill]]
-*[[Moses]]—the [[Ethical Decalogue]]
+*[[Moses]]
 *[[G. E. Moore]]
 *[[Radhakamal Mukerjee]]
 
@@ -206,7 +206,7 @@ All are known for an ethical work or problem, but a few are primarily [[list of 
 
 ==O==
 *[[John Joseph O'Connor]]
-*[[Onora O'Neill, Baroness O'Neill of Bengarve|Onora O'Neill]]
+*[[Onora O'Neill]]
 *[[Michel Onfray]]
 
 ==P==
@@ -214,7 +214,7 @@ All are known for an ethical work or problem, but a few are primarily [[list of 
 *[[Bahya ibn Paquda]]
 *[[Derek Parfit]]
 *[[Craig Paterson]]
-*[[David Pearce (philosopher)|David Pearce]]
+*[[David Pearce]]
 *[[Philip Pettit]]
 *[[Philo]]
 *[[Plato]]
@@ -230,7 +230,7 @@ All are known for an ethical work or problem, but a few are primarily [[list of 
 *[[Ayn Rand]]
 *[[John Rawls]]
 *[[Joseph Raz]]
-*[[Ronald Reagan]]<ref>[http://www.reaganfoundation.org/reagan-quotes-detail.aspx?tx=2072 "Government is the problem."]  Inaugural address.</ref>
+*[[Ronald Reagan]]
 *[[Martin Rees]]
 *[[Tom Regan]]
 *[[George Croom Robertson]]
@@ -311,26 +311,16 @@ All are known for an ethical work or problem, but a few are primarily [[list of 
 *[[Daniel Wikler]]
 *[[Bernard Williams]]
 *[[Susan Wolf]]
-*[[Christian Wolff (philosopher)]]
+*[[Christian Wolff]]
 *[[William Wollaston]]
 *[[Xenocrates]]
-*[[Xun Kuang|Xunzi]]
+*[[Xun Kuang]]
 *[[John Howard Yoder]]
 *[[Theodor Zwinger]]
 *[[Swami Vivekananda]]
-
-== See also ==
-*[[list of economists]]
-*[[list of ethics topics]]
-*[[list of philosophers]]
-*[[list of political scientists]]
 
 ==References==
 {{Reflist}}
 {{Ethics}}
 
 {{DEFAULTSORT:Ethicists}}
-[[Category:Moral philosophers| ]]
-[[Category:Lists of philosophers]]
-[[Category:Ethics lists]]
-[[Category:Ethicists| ]]

@@ -1,4 +1,4 @@
-This is a list of [[Epistemology|epistemologists]], that is, people who theorize about the nature of [[knowledge]], [[belief]] formation and the nature of [[Theory of justification|justification]].
+This is a list of epistemologists, that is, people who theorize about the nature of knowledge, belief formation and the nature of Theory of justification.
 {{see also|Index of epistemology articles}}
 {{columns-list|4|
 *[[William Alston]]
@@ -29,7 +29,7 @@ This is a list of [[Epistemology|epistemologists]], that is, people who theorize
 *[[Alvin Goldman]]
 *[[Emma Goldman]]
 *[[Nelson Goodman]]
-*[[John_Greco (philosopher)|John Greco]]
+*[[John Greco]]
 *[[Paul Grice]]
 *[[Susan Haack]]
 *[[Donna Haraway]]
@@ -50,7 +50,7 @@ This is a list of [[Epistemology|epistemologists]], that is, people who theorize
 *[[Jennifer Lackey]]
 *[[Keith Lehrer]]
 *[[Isaac Levi]]
-*[[David Lewis (philosopher)|David Lewis]]
+*[[David Lewis]]
 *[[Peter Lipton]]
 *[[John Locke]]
 *[[Niklas Luhmann]]
@@ -103,6 +103,3 @@ This is a list of [[Epistemology|epistemologists]], that is, people who theorize
 }}
 
 {{Epistemology}}
-
-[[Category:Epistemologists| ]]
-[[Category:Lists of philosophers|Epistemologists]]

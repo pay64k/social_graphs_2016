@@ -1,5 +1,5 @@
 {{Portal|Logic}}
-A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some famous logicians are listed below in [[English language|English]] [[alphabet]]ical [[transliteration]] order (by [[surname]]).
+A logician is a person whose topic of scholarly study is logic. Some famous logicians are listed below in English alphabetical transliteration order by surname.
 
 {{compact ToC|side=yes|top=yes|num=yes}}__NOTOC__
 
@@ -11,7 +11,7 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 * [[Kazimierz Ajdukiewicz]] (Poland, 1890–1963)  
 * [[Alcuin]] (England/France, c. 735-804)  
 * [[Alan Ross Anderson]] (USA, 1924–1972)
-* [[Peter B. Andrews (mathematician)|Peter B. Andrews]] (USA, born 1938)  
+* [[Peter B. Andrews]] (USA, born 1938)  
 * [[Thomas Aquinas]] (Italy/France, 1225–1274)  
 * [[Lennart Åqvist]] (Sweden, born 1932)
 * [[Aristotle]] (Greece, 384 BC–322 BC)
@@ -29,7 +29,7 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 * [[John Lane Bell]] (UK and Canada, born 1945)
 * [[Nuel Belnap]] (USA, born 1931)
 * [[Paul Benacerraf]] (USA, born 1931)
-* [[Johan van Benthem (logician)|Johan van Benthem]] (Netherlands, born 1949)
+* [[Johan van Benthem]] (Netherlands, born 1949)
 * [[Paul Bernays]] (Switzerland, 1888–1977)
 * [[Evert Willem Beth]] (Netherlands, 1908–1964)
 * [[Jean-Yves Béziau]] (Switzerland, born 1965)
@@ -43,28 +43,28 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 * [[Thomas Bradwardine]] (England, c. 1290–26 August 1349) 
 * [[Richard Brinkley]] (England, died c. 1379)
 * [[Luitzen Egbertus Jan Brouwer]] (Netherlands, 1881–1966)
-* [[Alan Bundy|Alan Richard Bundy]] (UK, born 1947)
+* [[Alan Richard Bundy]] (UK, born 1947)
 * [[Franco Burgersdijk]] (Netherlands, 1590–1629)
 * [[Walter Burley]] (England, c. 1275–1344/5)
 * [[Jean Buridan]] (France, c. 1300–post 1358)
 
 ==C==
 
-* [[Georg Cantor|Georg Ferdinand Cantor]] (Germany, 1845–1918)
+* [[Georg Ferdinand Cantor]] (Germany, 1845–1918)
 * [[Rudolf Carnap]] (Germany, 1891–1970)
 * [[Lewis Carroll]] (UK, 1832–1898)  
-* ''[[Categoriae decem]]'' (Latin, fifth century)  
+* ''Categoriae decem'' (Latin, fifth century)  
 * [[Gregory Chaitin]] (Argentina/USA, born 1947)
 * [[Chrysippus]] (Greece, c. 280BC–c. 207BC)
 * [[Alonzo Church]] (USA, 1903–1995)
 * [[Leon Chwistek]] (Poland, 1884–1944)
-* [[Paul Cohen (mathematician)|Paul Joseph Cohen]] (USA, 1934–2007)
+* [[Paul Joseph Cohen]] (USA, 1934–2007)
 * [[Conimbricenses]] name by which Jesuits of the University of Coimbra (Portugal) were known (1591–1606)
 * [[S. Barry Cooper]] (UK, 1943-2015)
 * [[Jack Copeland]] (UK, born 1950)
-* [[John Corcoran (logician)|John Corcoran]] (USA, born 1937)
+* [[John Corcoran]] (USA, born 1937)
 * [[Newton da Costa]] (Brazil, born 1929)
-* [[William Craig (logician)|William Craig]] (USA, born 1918)
+* [[William Craig]] (USA, born 1918)
 * [[Haskell Curry]] (USA, 1900–1982)
 * [[Tadeusz Czeżowski]] (Poland, 1889–1981)
 
@@ -77,7 +77,7 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 * [[Dignāga]] (India, fl. 5th century)
 * [[Diodorus Cronus]] (Greece, 4th–3rd century BC)
 * [[Michael A. E. Dummett]] (UK, born 1925)  
-* [[:nl:Martinus Dorpius|Martin Dorp]] (Netherlands, c. 1485–1525)  
+* [[Martin Dorp]] (Netherlands, c. 1485–1525)  
 * [[John Dumbleton]], (England, died c. 1349)
 
 ==E==
@@ -155,7 +155,7 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 
 ==K==
 
-* [[David Kaplan (philosopher)|David Kaplan]] (USA, born 1933)
+* [[David Kaplan]] (USA, born 1933)
 * [[Alexander S. Kechris]] (USA, born 1946)
 * [[Jaoudat Khouri]] (Australia, born 1981)
 * [[Richard Kilvington]] (England, c. 1305–1361)
@@ -173,7 +173,7 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 * [[Joachim Lambek]] (Canada, 1922–2014)
 * [[Johann Heinrich Lambert]] (France/Germany, 1728–1777)
 * [[Karel Lambert]] (USA, born 1928) 
-* [[Gottfried Leibniz|Gottfried Wilhelm Leibniz]] (Germany, 1646–1716)
+* [[Gottfried Wilhelm Leibniz]] (Germany, 1646–1716)
 * [[Stanisław Leśniewski]] (Poland, 1886–1939)
 * [[Clarence Irving Lewis]] (USA, 1883–1964)
 * [[David Kellogg Lewis]] (USA, 1941–2001)
@@ -193,7 +193,7 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 * [[Dugald Macpherson]] (UK, 20th century)
 * [[Penelope Maddy]] (USA, born 1950)
 * [[David Makinson]] (Australia, UK, born 1941)
-* [[John Major (philosopher)|John Mair]] (Scotland, 1467–1550)
+* [[John Mair]] (Scotland, 1467–1550)
 * [[Isaac Malitz]] (USA, born 1947)
 * [[Gary R. Mar]] (USA, born 1952)
 * [[Ruth Barcan Marcus]] (1921–2012)  
@@ -201,8 +201,8 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 * [[Donald A. Martin]] (USA, born 1940)
 * [[Richard Milton Martin]] (USA, 1916–1985)
 * [[Yuri Matiyasevich]] (Russia/Soviet Union, born 1947)
-* [[Carew Meredith|C. A. Meredith]] (Ireland, 1904–1976)
-* [[Bob Meyer (logician)|Bob Meyer]] (USA, 1932–2009)
+* [[C. A. Meredith]] (Ireland, 1904–1976)
+* [[Bob Meyer]] (USA, 1932–2009)
 * [[John Stuart Mill]] (England, 1806–1873)
 * [[Grigori Mints]] (Soviet Union/Estonia/USA, 1939–2014)
 * [[Richard Montague]] (USA, 1930–1971)
@@ -220,13 +220,13 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 
 * [[William of Ockham]] (England, 1285–1349)
 * [[Piergiorgio Odifreddi]] (Italy, born 1950)
-* [[Ivan Orlov (philosopher)|Ivan Orlov]] (Russia, 1886–1936)
+* [[Ivan Orlov]] (Russia, 1886–1936)
 
 ==P==
 
 * [[John Pagus]] (France, fl. 1220–1229)
 * [[Jeff Paris]] (UK, born 1944)
-* [[Charles Parsons (philosopher)|Charles Parsons]] (USA, born 1933)
+* [[Charles Parsons]] (USA, born 1933)
 * [[Solomon Passy]] (Bulgaria, born 1956)
 * [[Paul of Venice]] (1369–1429)
 * [[Giuseppe Peano]] (Italy, 1858–1932)
@@ -234,11 +234,11 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 * [[Lorenzo Peña]] (Spain, born 1944)
 * [[Paolo da Pergola]] (Italy, died 1455)
 * [[Chaim Perelman]] (Poland, Belgium, 1912–1984)
-* [[Peter of Spain (author)|Peter of Spain]]  (13th century, usually assumed to be [[Pope John XXI]])
+* [[Peter of Spain]]  (13th century, usually assumed to be [[Pope John XXI]])
 * [[Philo the Dialectician]] (Greece, 4th-3rd century BC)
 * [[Walter Pitts]] (USA, 1923–1969)  
-* [[Porphyry (philosopher)|Porphyry]] (c. 234–c. 405)  
-* henry andrew pogorzelski ((USA, Polish American parents, 1922–2015)[[Henry Andrew Pogorzelski|Henry Pogorzelski )]]  
+* [[Porphyry]] (c. 234–c. 405)  
+* henry andrew pogorzelski ((USA, Polish American parents, 1922–2015)[[Henry Pogorzelski]]  
 * [[Emil Leon Post]] (USA, 1897–1954)
 * [[Dag Prawitz]] (Sweden, born 1936)
 * [[Mojżesz Presburger]] (Poland, 1904–1943)
@@ -270,7 +270,7 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 
 * [[Gerald Sacks]] (USA, 1933)
 * [[Giovanni Girolamo Saccheri]], (Italy, 1667–1733)
-* [[Albert of Saxony (philosopher)|Albert of Saxony]] (Germany, c. 1316–1390)
+* [[Albert of Saxony]] (Germany, c. 1316–1390)
 * [[Rolf Schock]] (USA, Sweden, 1933–1986)
 * [[Moses Schönfinkel]] (USSR, 1889–1942)
 * [[Ernst Schröder]] (Germany, 1841–1902)
@@ -291,11 +291,11 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 * [[Raymond Smullyan]] (USA, born 1919)
 * [[Robert M. Solovay]] (USA, born 1938)
 * [[Richard the Sophister]] (fl. late  13th century)
-* [[Peter of Spain (author)|Peter of Spain]] (13th century)
+* [[Peter of Spain]] (13th century)
 * [[John R. Steel]] (USA, born 1948)
 * [[Martin Stokhof]] (Netherlands, born 1950)
 * [[Ralph Strode]] (England, fl. 1350–1400)
-* [[Nyāya Sūtras|Akṣapāda Gautama]] (India, fr 150 CE)
+* [[Akṣapāda Gautama]] (India, fr 150 CE)
 * [[Richard Swineshead]] (England, fl. c. 1340–1354)
 * [[Richard Sylvan]], born Richard Routley (New Zealand, 1935–1996)
 
@@ -314,7 +314,7 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 
 * [[Udayana]] (India, 10th century)
 * [[Alasdair Urquhart]] (Britain, born 1945)
-* [[Vladimir Andreyevich Uspensky|Vladimir Uspensky]] (Soviet Union/Russia, born 1930)
+* [[Vladimir Andreyevich Uspensky]] (Soviet Union/Russia, born 1930)
 
 ==V==
 
@@ -328,14 +328,14 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 
 ==W==
 
-* [[Hao Wang (academic)|Hao Wang]] (China/USA, 1921–1995)
+* [[Hao Wang]] (China/USA, 1921–1995)
 * [[Isaac Watts]] (England, 1674–1748)
 * [[Richard Whately]] (England, 1787–1863)
 * [[Alfred North Whitehead]] (UK, 1861–1947)
 * [[Ludwig Wittgenstein]] (Austria, UK, 1889–1951)
-* [[Christian Wolff (philosopher)|Christian Wolff]] (Germany, 1679-1754)
+* [[Christian Wolff]] (Germany, 1679-1754)
 * [[W. Hugh Woodin]] (USA, born 1955)
-* [[John Woods (logician)|John Woods]] (Canada, born 1937)
+* [[John Woods]] (Canada, born 1937)
 * [[Georg Henrik von Wright]] (Finland, UK, 1916–2003)
 
 ==X==
@@ -362,7 +362,3 @@ A [[logician]] is a person whose topic of scholarly study is [[logic]]. Some fam
 {{Logic}}
 
 {{Portal bar|Logic}}
-
-[[Category:Logicians|*]]
-[[Category:Lists of mathematicians|Logicians]]
-[[Category:Lists of philosophers|Logicians]]

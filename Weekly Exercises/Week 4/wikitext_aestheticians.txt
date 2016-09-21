@@ -1,4 +1,4 @@
-This is a '''list of aestheticians''' (or aestheticists), philosophers of art, and aesthetes. That is, people who theorize about the nature of [[art]] and [[beauty]].
+This is a '''list of aestheticians''' (or aestheticists), philosophers of art, and aesthetes. That is, people who theorize about the nature of art and beauty.
 {{see also|Index of aesthetics articles}}
 {{compact ToC|top=yes|seealso=no|extlinks=yes}}
 
@@ -8,10 +8,10 @@ This is a '''list of aestheticians''' (or aestheticists), philosophers of art, a
 *[[Virgil Aldrich]]
 *[[Anandavardhana]]
 *[[Sri Aurobindo]]
-*[[John Anderson (philosopher)|John Anderson]]
+*[[John Anderson]]
 *[[Yves Marie André]]
 *St. [[Thomas Aquinas]]
-*[[Aristotle]] (see ''[[Poetics (Aristotle)|Poetics]]'' and ''[[Rhetoric (Aristotle)|Rhetoric]]'')
+*[[Aristotle]]
 *[[Rudolf Arnheim]]
 *[[Mazen Asfour]]
 *[[Georg Anton Friedrich Ast]]
@@ -29,7 +29,7 @@ This is a '''list of aestheticians''' (or aestheticists), philosophers of art, a
 *[[Clive Bell]]
 *[[Walter Benjamin]]
 *[[Arnold Berleant]]
-*[[George Birkhoff]] <!--''Aesthetic Measure'', 1933<ref>{{cite book |last1=Cucker |first1=Felix |title=Manifold Mirrors: The Crossing Paths of the Arts and Mathematics |date=2013 |publisher=Cambridge University Press |isbn=978-0-521-72876-8 |pages=116–120}}</ref>-->
+*[[George Birkhoff]]
 *[[Max Black]]
 *[[Maurice Blanchot]]
 *[[Harold Bloom]]
@@ -55,7 +55,7 @@ This is a '''list of aestheticians''' (or aestheticists), philosophers of art, a
 
 ==E==
 *[[Umberto Eco]]
-*[[Jonathan Edwards (theologian)|Jonathan Edwards]]
+*[[Jonathan Edwards]]
 *[[Ralph Waldo Emerson]]
 
 ==F==
@@ -83,18 +83,18 @@ This is a '''list of aestheticians''' (or aestheticists), philosophers of art, a
 *[[Hermann Theodor Hettner]]
 *[[John Hospers]]
 *[[Heinrich Gustav Hotho]]
-*[[David Hume]] (see ''[[Of the Standard of Taste]]'')
-*[[Francis Hutcheson (philosopher)|Francis Hutcheson]]
+*[[David Hume]]
+*[[Francis Hutcheson]]
 
 ==J==
 *[[Francis Ernest Jackson]]
 *[[Christopher Janaway]]
-*[[James Joyce]] (see ''[[A Portrait of the Artist as a Young Man]]'')
+*[[James Joyce]])
 
 ==K==
-*[[Immanuel Kant]] (see ''[[Critique of Judgment]]'')
+*[[Immanuel Kant]]
 *[[Mani Kaul]]
-*[[Søren Kierkegaard]] (see ''[[Either/Or]]'')
+*[[Søren Kierkegaard]]
 *[[Peter Kivy]]
 *[[Andrzej Tadeusz Kijowski]]
 *[[Joseph Kosuth]]
@@ -104,8 +104,8 @@ This is a '''list of aestheticians''' (or aestheticists), philosophers of art, a
 *[[Vernon Lee]]
 *[[Gotthold Ephraim Lessing]]
 *[[Jerrold Levinson]]
-*[[Liu Xie]] (see ''[[The Literary Mind and the Carving of Dragons]]'')
-*[[Longinus (literature)|Longinus]]
+*[[Liu Xie]]
+*[[Longinus]]
 *[[Peter Lunenfeld]]
 *[[Jean-François Lyotard]]
 *[[György Lukács]]
@@ -130,7 +130,7 @@ This is a '''list of aestheticians''' (or aestheticists), philosophers of art, a
 *[[Walter Pater]]
 *[[Ronald Paulson]]
 *[[Hans Pfitzner]]
-*[[Plato]] (see ''[[Symposium (Plato dialogue)|Symposium]]'')
+*[[Plato]]
 *[[Edgar Allan Poe]]
 *[[Steven Poole]]
 
@@ -145,18 +145,17 @@ This is a '''list of aestheticians''' (or aestheticists), philosophers of art, a
 *[[Friedrich Schiller]]
 *[[August Wilhelm von Schlegel]]
 *[[Karl Wilhelm Friedrich von Schlegel]]
-*[[Arthur Schopenhauer]] (see [[Schopenhauer's aesthetics]])
+*[[Arthur Schopenhauer]]
 *[[Roger Scruton]]
 *[[Calvin Seerveld]]
 *[[Richard Shusterman]]
-*[[Frank Sibley (philosopher)]]
+*[[Frank Sibley]]
 *[[Eli Siegel]]
 *[[Guy Sircello]]
 *[[Karl Wilhelm Ferdinand Solger]]
 *[[Michael Sprinker]]
 *[[Algernon Charles Swinburne]]
-*[[Socrates]]<ref>[http://www.1902encyclopedia.com/A/AES/aesthetics-07.html GREEK WRITERS ON AESTHETICS]</ref>
-
+*[[Socrates]]
 ==U==
 
 ==V==
@@ -176,6 +175,3 @@ This is a '''list of aestheticians''' (or aestheticists), philosophers of art, a
 
 == References ==
 <references />
-
-[[Category:Lists of philosophers|Aesthetics]]
-[[Category:Philosophers of art| ]]
