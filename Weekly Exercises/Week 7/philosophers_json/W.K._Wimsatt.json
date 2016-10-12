@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "W.K. Wimsatt", "from": "W.K._Wimsatt"}], "pages": {"2601233": {"extract": "", "ns": 0, "pageid": 2601233, "title": "W.K. Wimsatt"}}}, "limits": {"extracts": 20}, "warnings": {"extracts": {"*": "exlimit was too large for a whole article extracts request, lowered to 1"}, "main": {"*": "Unrecognized parameter: 'rvprop'"}}}

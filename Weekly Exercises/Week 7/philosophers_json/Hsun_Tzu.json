@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Hsun Tzu", "from": "Hsun_Tzu"}], "pages": {"730568": {"extract": "", "ns": 0, "pageid": 730568, "title": "Hsun Tzu"}}}, "limits": {"extracts": 20}, "warnings": {"extracts": {"*": "exlimit was too large for a whole article extracts request, lowered to 1"}, "main": {"*": "Unrecognized parameter: 'rvprop'"}}}

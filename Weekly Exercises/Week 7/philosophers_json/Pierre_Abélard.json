@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Pierre Abélard", "from": "Pierre_Abélard"}], "pages": {"3156554": {"extract": "", "ns": 0, "pageid": 3156554, "title": "Pierre Abélard"}}}, "limits": {"extracts": 20}, "warnings": {"extracts": {"*": "exlimit was too large for a whole article extracts request, lowered to 1"}, "main": {"*": "Unrecognized parameter: 'rvprop'"}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Edward Hundert", "from": "Edward_Hundert"}], "pages": {"4178000": {"extract": "", "ns": 0, "pageid": 4178000, "title": "Edward Hundert"}}}, "limits": {"extracts": 20}, "warnings": {"extracts": {"*": "exlimit was too large for a whole article extracts request, lowered to 1"}, "main": {"*": "Unrecognized parameter: 'rvprop'"}}}

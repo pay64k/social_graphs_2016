@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Susan Wolf", "from": "Susan_Wolf"}], "pages": {"37755595": {"extract": "", "ns": 0, "pageid": 37755595, "title": "Susan Wolf"}}}, "limits": {"extracts": 20}, "warnings": {"extracts": {"*": "exlimit was too large for a whole article extracts request, lowered to 1"}, "main": {"*": "Unrecognized parameter: 'rvprop'"}}}
