@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Fazlur Rahman", "from": "Fazlur_Rahman"}], "pages": {"18958919": {"extract": "", "ns": 0, "pageid": 18958919, "title": "Fazlur Rahman"}}}, "limits": {"extracts": 20}, "warnings": {"extracts": {"*": "exlimit was too large for a whole article extracts request, lowered to 1"}, "main": {"*": "Unrecognized parameter: 'rvprop'"}}}

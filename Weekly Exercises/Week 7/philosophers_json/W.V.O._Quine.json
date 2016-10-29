@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "W.V.O. Quine", "from": "W.V.O._Quine"}], "pages": {"152865": {"extract": "", "ns": 0, "pageid": 152865, "title": "W.V.O. Quine"}}}, "limits": {"extracts": 20}, "warnings": {"extracts": {"*": "exlimit was too large for a whole article extracts request, lowered to 1"}, "main": {"*": "Unrecognized parameter: 'rvprop'"}}}

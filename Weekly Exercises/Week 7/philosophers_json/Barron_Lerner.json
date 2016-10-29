@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"to": "Barron Lerner", "from": "Barron_Lerner"}], "pages": {"19251031": {"extract": "", "ns": 0, "pageid": 19251031, "title": "Barron Lerner"}}}, "limits": {"extracts": 20}, "warnings": {"extracts": {"*": "exlimit was too large for a whole article extracts request, lowered to 1"}, "main": {"*": "Unrecognized parameter: 'rvprop'"}}}
