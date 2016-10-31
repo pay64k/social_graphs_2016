@@ -1,4 +1,4 @@
-IlabMIT-1.0.txt
+sIlabMIT-1.0.txt
 language assessment by Mechanical Turk 1.0
 
 word	happiness_rank	happiness_average	happiness_standard_deviation	twitter_rank	google_rank	nyt_rank	lyrics_rank
